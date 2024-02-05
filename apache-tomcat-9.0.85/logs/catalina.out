@@ -1,0 +1,47 @@
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Feb-2024 16:10:39.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.85
+05-Feb-2024 16:10:39.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 08:28:07 UTC
+05-Feb-2024 16:10:39.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.85.0
+05-Feb-2024 16:10:39.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-Feb-2024 16:10:39.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.2.0-1018-aws
+05-Feb-2024 16:10:39.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Feb-2024 16:10:39.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+05-Feb-2024 16:10:39.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.21+9-post-Ubuntu-0ubuntu122.04
+05-Feb-2024 16:10:39.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+05-Feb-2024 16:10:39.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /root/source3/gamutkart2/apache-tomcat-9.0.85
+05-Feb-2024 16:10:39.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /root/source3/gamutkart2/apache-tomcat-9.0.85
+05-Feb-2024 16:10:39.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Feb-2024 16:10:39.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Feb-2024 16:10:39.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+05-Feb-2024 16:10:39.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-Feb-2024 16:10:39.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Feb-2024 16:10:39.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/root/source3/gamutkart2/apache-tomcat-9.0.85/conf/logging.properties
+05-Feb-2024 16:10:39.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Feb-2024 16:10:39.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Feb-2024 16:10:39.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Feb-2024 16:10:39.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+05-Feb-2024 16:10:39.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Feb-2024 16:10:39.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/root/source3/gamutkart2/apache-tomcat-9.0.85
+05-Feb-2024 16:10:39.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/root/source3/gamutkart2/apache-tomcat-9.0.85
+05-Feb-2024 16:10:39.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/root/source3/gamutkart2/apache-tomcat-9.0.85/temp
+05-Feb-2024 16:10:39.552 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+05-Feb-2024 16:10:40.414 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Feb-2024 16:10:40.484 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1542] milliseconds
+05-Feb-2024 16:10:40.636 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Feb-2024 16:10:40.636 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.85]
+05-Feb-2024 16:10:40.651 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/root/source3/gamutkart2/apache-tomcat-9.0.85/webapps/ROOT]
+05-Feb-2024 16:10:41.278 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/root/source3/gamutkart2/apache-tomcat-9.0.85/webapps/ROOT] has finished in [626] ms
+05-Feb-2024 16:10:41.279 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/root/source3/gamutkart2/apache-tomcat-9.0.85/webapps/host-manager]
+05-Feb-2024 16:10:41.355 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/root/source3/gamutkart2/apache-tomcat-9.0.85/webapps/host-manager] has finished in [75] ms
+05-Feb-2024 16:10:41.356 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/root/source3/gamutkart2/apache-tomcat-9.0.85/webapps/manager]
+05-Feb-2024 16:10:41.411 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/root/source3/gamutkart2/apache-tomcat-9.0.85/webapps/manager] has finished in [55] ms
+05-Feb-2024 16:10:41.417 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/root/source3/gamutkart2/apache-tomcat-9.0.85/webapps/examples]
+05-Feb-2024 16:10:41.926 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/root/source3/gamutkart2/apache-tomcat-9.0.85/webapps/examples] has finished in [509] ms
+05-Feb-2024 16:10:41.927 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/root/source3/gamutkart2/apache-tomcat-9.0.85/webapps/docs]
+05-Feb-2024 16:10:41.967 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/root/source3/gamutkart2/apache-tomcat-9.0.85/webapps/docs] has finished in [40] ms
+05-Feb-2024 16:10:41.975 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Feb-2024 16:10:42.016 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1531] milliseconds
+05-Feb-2024 16:29:45.573 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Feb-2024 16:29:45.615 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Feb-2024 16:29:45.833 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Feb-2024 16:29:45.858 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
